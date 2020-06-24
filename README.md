@@ -1,5 +1,5 @@
 # chatbot
-Construyendo un Chatbot simple en Python
+*Construyendo un Chatbot simple en Python*
 
 
 Un ordenador hace mucho más que ordenar. Usamos esa palabra prestada del frances 'ordinateur', que es la traducción del original inglés 'computer'. Sin embargo, los primitivos ordenadores tenían el inconveniente de que se construían para resolver un problema determinado y no se podían utilizar para otro fin sin tener que cambiar los circuitos. Esto fue así hasta que en 1936 Alan Turing creyó que los ordenadores si podrían llegar a pensar y, con el programa adecuado, hacer cosas como chatear sin que pudiéramos ser capaces de distinguir si es una persona o un ordenador.
